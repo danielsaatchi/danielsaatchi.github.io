@@ -4,6 +4,8 @@
 ## theme developed at🛋️ONSOFA.ai
 ONSOFA Studio [4] Artificial General Intelligence
 
+for more info 🌐 **[original repo by onsofa](https://github.com/danielsaatchi/onsofa/)**
+
 
 ## Repository layout
 
@@ -22,13 +24,6 @@ onsofa/docs/
 └── fonts/
     └── CascadiaCode-Regular.woff2   # Optional – if not from URL (check .css file)
 ```
-
-## How to Deploy (minimal static theme)
-0. Set the root/docs based on folder (e.g. onsofa-stati-theme)
-1. Fork or clone this repo.
-2. Push the branch to GitHub (default `main`).
-3. In Settings → Pages → Source, select `main` → `/docs`.
-4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
 
 ## How to Deploy (dynamic-GPT theme)
 0. Set the root/docs based on folder (e.g. onsofa-dynamic-GPT-theme)
