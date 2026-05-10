@@ -30,7 +30,7 @@ onsofa/docs/
 1. Fork or clone this repo.
 2. Push the branch to GitHub (default `main`).
 3. In Settings → Pages → Source, select `main` → `/docs`.
-4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
+4. Afterthat, this site will be live at `https://danielsaatchi.github.io/`.
 
 
 
