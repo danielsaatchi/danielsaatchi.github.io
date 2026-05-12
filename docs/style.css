@@ -14,9 +14,9 @@
     --white:      #fff;
     --link-blue:  #007bff;   /* classic bootstrap‑style blue */
     --bg-default: #000; /* White background */
-    --text-default: var(--white); /* Black text */
+    --text-default: var(--white); /* white text */
     --nav-text: var(--white); /* Black for nav links */
-    --footer-bg: var(--dark); /* Dark grey for footer */
+    --footer-bg: var(--black); /* black or Dark grey for footer */
     --footer-text: #fff; /* White for footer text */
 }
 
@@ -139,6 +139,7 @@ a:hover {
 .site-footer {
     background: var(--footer-bg);
     color: var(--footer-text);
+    border-top: 1px solid var(--white); /* Subtle separator */
     padding: 1.2rem 0 1.8rem;
     margin-top: 2rem;
     text-align: center;
