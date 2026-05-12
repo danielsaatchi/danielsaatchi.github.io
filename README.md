@@ -1,7 +1,7 @@
 # danielsaatchi.github.io
  🌐 **Part of**: www.danielsaatchi.com
 
-## theme developed at🛋️ONSOFA.ai
+## theme developed by🛋️ONSOFA.ai
 ONSOFA Studio [4] Artificial General Intelligence
 
 for more info 🌐 **[original repo by onsofa](https://github.com/danielsaatchi/onsofa/)**
